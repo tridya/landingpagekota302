@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AsetTrack • KoTa 302 — PT Padepokan Tujuh Sembilan",
+  title: "AsetTrack • KoTa 302 — PT Padepokan Tujuh Sembilan (landing page success)",
   description:
     "Sistem Manajemen Inventori Perangkat Elektronik Berbasis Web — Tugas Akhir KoTa 302 PT Padepokan Tujuh Sembilan. Mengelola inventori, carbon emission tracking, dan Decision Support System.",
   keywords: ["asettrack", "tugas akhir", "kota302", "manajemen aset", "inventori", "carbon emission", "DSS", "PT Padepokan Tujuh Sembilan"],
